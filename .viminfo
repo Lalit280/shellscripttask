@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1706510098,,"wq"
+|2,0,1706511574,,"wq"
 :WQ
 |2,0,1706510094,,"WQ"
 
@@ -27,32 +27,212 @@
 # Registers:
 
 # File marks:
-'0  17  2  ~/scripts/age.sh
-|4,48,17,2,1706510098,"~/scripts/age.sh"
-'1  10  7  ~/scripts/salary.sh
-|4,49,10,7,1706509741,"~/scripts/salary.sh"
-'2  1  205  ~/scripts/salary.sh
-|4,50,1,205,1706509428,"~/scripts/salary.sh"
-'3  16  4  ~/scripts/salary.sh
-|4,51,16,4,1706509428,"~/scripts/salary.sh"
-'4  4  0  ~/scripts/filesearch.sh
-|4,52,4,0,1706509067,"~/scripts/filesearch.sh"
-'5  6  5  ~/scripts/filesearch.sh
-|4,53,6,5,1706508812,"~/scripts/filesearch.sh"
+'0  19  14  ~/scripts/age.sh
+|4,48,19,14,1706511574,"~/scripts/age.sh"
+'1  14  32  ~/scripts/age.sh
+|4,49,14,32,1706511438,"~/scripts/age.sh"
+'2  14  32  ~/scripts/age.sh
+|4,50,14,32,1706511438,"~/scripts/age.sh"
+'3  14  32  ~/scripts/age.sh
+|4,51,14,32,1706511397,"~/scripts/age.sh"
+'4  14  32  ~/scripts/age.sh
+|4,52,14,32,1706511397,"~/scripts/age.sh"
+'5  13  16  ~/scripts/salary.sh
+|4,53,13,16,1706511015,"~/scripts/salary.sh"
+'6  20  2  ~/scripts/age.sh
+|4,54,20,2,1706510098,"~/scripts/age.sh"
+'7  20  2  ~/scripts/age.sh
+|4,55,20,2,1706510098,"~/scripts/age.sh"
+'8  20  2  ~/scripts/age.sh
+|4,56,20,2,1706510098,"~/scripts/age.sh"
+'9  20  2  ~/scripts/age.sh
+|4,57,20,2,1706510098,"~/scripts/age.sh"
 
 # Jumplist (newest first):
+-'  19  14  ~/scripts/age.sh
+|4,39,19,14,1706511574,"~/scripts/age.sh"
+-'  14  32  ~/scripts/age.sh
+|4,39,14,32,1706511454,"~/scripts/age.sh"
+-'  14  32  ~/scripts/age.sh
+|4,39,14,32,1706511438,"~/scripts/age.sh"
+-'  14  32  ~/scripts/age.sh
+|4,39,14,32,1706511397,"~/scripts/age.sh"
+-'  20  2  ~/scripts/age.sh
+|4,39,20,2,1706511354,"~/scripts/age.sh"
+-'  17  2  ~/scripts/age.sh
+|4,39,17,2,1706511354,"~/scripts/age.sh"
+-'  17  2  ~/scripts/age.sh
+|4,39,17,2,1706511354,"~/scripts/age.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  13  16  ~/scripts/salary.sh
+|4,39,13,16,1706511015,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706510858,"~/scripts/salary.sh"
 -'  17  2  ~/scripts/age.sh
 |4,39,17,2,1706510098,"~/scripts/age.sh"
+-'  17  2  ~/scripts/age.sh
+|4,39,17,2,1706510098,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706509821,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706509821,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706509821,"~/scripts/age.sh"
+-'  1  0  ~/scripts/age.sh
+|4,39,1,0,1706509821,"~/scripts/age.sh"
 -'  1  0  ~/scripts/age.sh
 |4,39,1,0,1706509821,"~/scripts/age.sh"
 -'  10  7  ~/scripts/salary.sh
 |4,39,10,7,1706509741,"~/scripts/salary.sh"
 -'  10  7  ~/scripts/salary.sh
 |4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
+-'  10  7  ~/scripts/salary.sh
+|4,39,10,7,1706509741,"~/scripts/salary.sh"
 -'  1  205  ~/scripts/salary.sh
 |4,39,1,205,1706509455,"~/scripts/salary.sh"
 -'  1  205  ~/scripts/salary.sh
 |4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  1  205  ~/scripts/salary.sh
+|4,39,1,205,1706509455,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  16  4  ~/scripts/salary.sh
+|4,39,16,4,1706509428,"~/scripts/salary.sh"
+-'  19  4  ~/scripts/salary.sh
+|4,39,19,4,1706509428,"~/scripts/salary.sh"
 -'  16  4  ~/scripts/salary.sh
 |4,39,16,4,1706509428,"~/scripts/salary.sh"
 -'  16  4  ~/scripts/salary.sh
@@ -61,89 +241,35 @@
 |4,39,1,0,1706509175,"~/scripts/salary.sh"
 -'  1  0  ~/scripts/salary.sh
 |4,39,1,0,1706509175,"~/scripts/salary.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  4  0  ~/scripts/filesearch.sh
-|4,39,4,0,1706509067,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  6  5  ~/scripts/filesearch.sh
-|4,39,6,5,1706508812,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
--'  1  0  ~/scripts/filesearch.sh
-|4,39,1,0,1706508666,"~/scripts/filesearch.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706509175,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706509175,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706509175,"~/scripts/salary.sh"
+-'  1  0  ~/scripts/salary.sh
+|4,39,1,0,1706509175,"~/scripts/salary.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/scripts/age.sh
-	*	1706510097	0
-	"	17	2
-	^	17	3
-	.	10	14
-	+	19	1
-	+	18	28
+	*	1706511571	0
+	"	19	14
+	^	19	15
+	.	19	14
+	+	22	1
+	+	21	28
 	+	16	14
 	+	13	14
 	+	10	14
+	+	14	32
+	+	19	14
 
 > ~/scripts/salary.sh
-	*	1706509740	0
-	"	10	7
-	^	10	8
-	.	10	14
+	*	1706511013	0
+	"	13	16
+	^	13	17
+	.	13	16
 	+	1	239
 	+	1	56
 	+	1	123
@@ -154,12 +280,13 @@
 	+	1	238
 	+	1	239
 	+	1	119
-	+	19	1
-	+	11	34
+	+	22	1
+	+	14	34
+	+	19	23
+	+	21	36
 	+	16	23
-	+	18	36
-	+	13	23
-	+	10	14
+	+	10	21
+	+	13	16
 
 > ~/scripts/filesearch.sh
 	*	1706509065	0
